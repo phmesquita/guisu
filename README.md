@@ -12,9 +12,9 @@ Seismic Unix is ​​an open source package of geophysical software maintained 
 
 4 - install wx library
 
-5 - Copy folder "help_su" to / usr / local
+5 - Copy folder "help_su" to "/usr/local"
 
-6 - Put code with the SeismicUxix interface in "/ bin", rename it from "guisu.py" to "guisu".
+6 - Put code with the SeismicUxix interface in "/bin", rename it from "guisu.py" to "guisu".
 
 7 - Run the "guisu" layer on the linux terminal.
 
