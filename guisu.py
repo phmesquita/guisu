@@ -26,7 +26,7 @@ if "2.8" in wx.version():
 else:
     from wx.lib.pubsub import pub
     
-    
+     
 
 class WindowClass(wx.Dialog):
 
