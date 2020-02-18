@@ -225,6 +225,13 @@ class WindowClass(wx.Dialog):
         self.comando3.Value=''
         self.parametros.Value=''
         
+        self.comando4.Value=''
+        self.comando5.Value=''
+        self.comando6.Value=''
+        
+        self.caminho.Value=''
+        self.caminho2.Value=''
+        self.caminho3.Value=''
     
             
     def onkeypress(self, e):
