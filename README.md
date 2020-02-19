@@ -1,6 +1,6 @@
 # guisu
 
-This application is just a graphical user interface
+This application is just a graphical user interface.
 
 _____________________________________________________
 
