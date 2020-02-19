@@ -1,6 +1,6 @@
 # guisu
 
-This application is only a Graphic User interface - Seismic Unix
+This application is just a graphical user interface
 
 _____________________________________________________
 
