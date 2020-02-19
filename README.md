@@ -1,5 +1,8 @@
 # guisu
-Graphic User interface - Seismic Unix
+
+This application is only a Graphic User interface - Seismic Unix
+
+_____________________________________________________
 
 Seismic Unix is ​​an open source package of geophysical software maintained by the Center for Wave Phenomena (CWP) at the Colorado School of Mines (CSM).
 
